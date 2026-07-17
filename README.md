@@ -1,4 +1,4 @@
-# Gus Orbit — Codex Pet
+# Gus Orbit — Animated Pet
 
 ![Gus Orbit animation sheet](assets/contact-sheet.png)
 
