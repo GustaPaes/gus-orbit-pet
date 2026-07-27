@@ -2,7 +2,7 @@
 
 ![Gus Orbit animation sheet](assets/contact-sheet.png)
 
-**Gus Orbit** is a custom animated companion for Codex Desktop: a friendly, tech-minded avatar with a clean white T-shirt, smartwatch, and a neon-purple orbit aesthetic. It was created as a personal portfolio piece by [Gustavo Paes de Liz](https://github.com/GustaPaes).
+**Gus Orbit** is a custom animated companion for Codex Desktop: a friendly, tech-minded avatar with a clean white T-shirt, smartwatch, and a neon-purple orbit aesthetic. It was designed and packaged by [Gustavo Paes de Liz](https://github.com/GustaPaes).
 
 The sprite sheet follows the Codex v2 pet format: 11 animation rows, directional variants, transparent WebP artwork, and a matching `pet.json` manifest.
 
@@ -66,4 +66,4 @@ Gus Orbit turns a real-world personal look into a small, approachable digital co
 
 ## License
 
-Released under the [MIT License](LICENSE). The name, artwork, and portfolio presentation remain attributed to Gustavo Paes de Liz.
+Released under the [MIT License](LICENSE). The name and artwork remain attributed to Gustavo Paes de Liz.
